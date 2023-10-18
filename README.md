@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchika Amin</h1>
+<h1 align="center">Hi, I'm Ruchika Amin 👀</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ruchikaamin](https://sites.google.com/view/ruchikaamin)
@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruchika amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika amin" height="30" width="40" /></a>
-<a href="https://dribbble.com/ruchii8803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ruchii8803" height="30" width="40" /></a>
-<a href="https://www.behance.net/ruchika amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ruchika amin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruchika-amin-105b97251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchika-amin-105b97251/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/ruchii8803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ruchii8803" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/ea796ed6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ea796ed6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
