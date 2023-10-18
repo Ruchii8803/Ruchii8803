@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoqod.com%2Fblog%2Fux-ui-design-importance%2F&psig=AOvVaw1wfryhEDjHOdm0MkVCQ9X6&ust=1697728062350000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDEl5n2_4EDFQAAAAAdAAAAABAD)](https://sites.google.com/view/ruchikaamin)
+[![MasterHead](https://moqod.com/static/img/ux-ui-00-2x.png)](https://sites.google.com/view/ruchikaamin)
 <h1 align="center">Hi, I'm Ruchika Amin 👀</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
