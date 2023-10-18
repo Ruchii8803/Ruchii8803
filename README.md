@@ -1,10 +1,7 @@
+
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoqod.com%2Fblog%2Fux-ui-design-importance%2F&psig=AOvVaw1wfryhEDjHOdm0MkVCQ9X6&ust=1697728062350000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDEl5n2_4EDFQAAAAAdAAAAABAD)](https://sites.google.com/view/ruchikaamin)
 <h1 align="center">Hi, I'm Ruchika Amin 👀</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-(img align="right" alt="UI/UX Designing" width="400" src="https://admin.centresource.in/uploads/1new_00d123d72c.jpg")
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchii8803" alt="ruchii8803" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ruchikaamin](https://sites.google.com/view/ruchikaamin)
 
