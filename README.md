@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ruchiamin90@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v-YzMoyvO1hYjlKy7IPSWsJGZfwP5bud/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PgD1oXmgdLjxsMXt9gYZtV0P33Kl2Qfe/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
